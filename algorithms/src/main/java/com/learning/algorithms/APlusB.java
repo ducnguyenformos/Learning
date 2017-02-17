@@ -8,5 +8,6 @@ class APlusB {
 		int a = s.nextInt();
 		int b = s.nextInt();
 		System.out.println(a + b);
+		s.close();
 	}
 }
